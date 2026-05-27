@@ -2,7 +2,7 @@ const Wishlist = require(
   "../models/wishlist"
 );
 
-const Hotel = require("../models/hotel");
+const Hotel = require("../models/Hotel");
 
 const addToWishlist = async (
   req,
